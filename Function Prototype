@@ -3,7 +3,6 @@ using namespace std;
 //Function Prototype
 int hitung_luas (int panjang, int lebar);
 
- 
 int main(){
 	int a,b,hasil;
 	cout<<"Program Hitung Luas Persegi Panjang"<<endl;
